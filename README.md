@@ -64,37 +64,37 @@
 
 ###开源项目说明
 
-> **ButterKnife**
+> **ButterKnife 注解**
 
 * **Link:** [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **AndroidTagGroup** 
+> **AndroidTagGroup 标签库** 
 
 * **Link:** [https://github.com/2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **NineOldAndroids** 
+> **NineOldAndroids安卓库中使用的蜂窝动画** 
 
 * **Link:** [https://github.com/JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) 
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **SystemBarTint**
+> **SystemBarTint状态栏隐藏**
 
 * **Link:** [https://github.com/jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **Android-Universal-Image-Loader**
+> **Android-Universal-Image-Loader图片加载**
 
 * **Link:** [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **PhotoView**
+> **PhotoView支持缩放图片的实现，通过各种触摸手势**
 
 * **Link:** [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
 
@@ -106,25 +106,25 @@
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **SmartTabLayout**
+> **SmartTabLayout滑动tab**
 
 * **Link:** [https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **SwipeBackLayout**
+> **SwipeBackLayout滑动返回**
 
 * **Link:** [https://github.com/ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **ImageBlurring**
+> **ImageBlurring图片模糊jni**
 
 * **Link:** [https://github.com/qiujuer/ImageBlurring](https://github.com/qiujuer/ImageBlurring)
 
 * **License:** `Licensed under the Apache License, Version 2.0 (the "License");`
 
-> **PinterestLikeAdapterView**
+> **PinterestLikeAdapterViewAndroid应用程序像Pinterest多列列表视图**
 
 * **Link:** [https://github.com/dodola/PinterestLikeAdapterView](https://github.com/dodola/PinterestLikeAdapterView)
 
